@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.main1{
+    background-color: peru;
+    font-size: 10px;
+    padding: 30px;
+    flex-basis: 50%;
+
+   
+}
+.main2{
+    flex-basis: 50%;
+
+}
+.main1 img{
+max-width: 80%;
+padding: 30px;
+}
+.main2 img{
+    max-width: 30%;
+    padding: 50px;
+    
+}
+.section{
+    display: flex;
+    text-align: center;
+}
+.child{
+    background-color: palevioletred;
+    display: flex;
+    font-size: 20px;
+}
+.child1{
+    background-color: aquamarine;
+    display: flex;
+    font-size:20px ;
+}
+button{
+    
+}

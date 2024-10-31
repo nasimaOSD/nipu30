@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.home{
+   background-color: bisque;
+   height: 80px;
+   text-align: center;
+   margin: auto;
+   padding: 20px;
+    
+}
+a{
+    text-decoration: none;
+    margin: 50px;
+    font-size: 20px;
+}
+:hover a{
+   
+    
+    background-color: rgb(249, 6, 87);
+    cursor: pointer;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    color: antiquewhite;
+}
